@@ -102,3 +102,31 @@ Processing by WelcomeController#index as HTML
 Completed 200 OK in 308ms (Views: 259.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2019-04-19 22:53:23 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (66.5ms)
+Completed 200 OK in 1425ms (Views: 1333.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-19 22:54:39 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 496ms (Views: 414.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-19 22:55:27 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (39.3ms)
+Completed 200 OK in 408ms (Views: 354.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-19 23:05:47 -0300
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (37.4ms)
+Completed 200 OK in 3605ms (Views: 3533.2ms | ActiveRecord: 0.0ms)
+
+
